@@ -4,7 +4,7 @@
 let num=13;
 let factor=0;
 
-for(let a=0;a<=num;a++){
+for(let a=1;a<=num;a++){
   if(num%2==0)
     factor++;
   }
